@@ -9,7 +9,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
     <projectUrl>https://github.com/ademolguner/AdemNugetDataConverter</projectUrl>
-    <icon>https://ademolguner.com/sompoicon.jpeg</icon>
+    <iconUrl>https://ademolguner.com/sompoicon.jpeg</iconUrl>
     <description>Projelerde altyapı tasarımı yaparak standart işleri bir paket haline getirildi. (Log-Exception-Caching vb...)</description>
     <releaseNotes>DataConvert işlemi için static class olusturuldu ve static metot çağrımı yapılarak devam edilecek</releaseNotes>
     <copyright>Copyright 2020</copyright>
