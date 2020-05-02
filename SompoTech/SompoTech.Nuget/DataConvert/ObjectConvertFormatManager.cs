@@ -3,7 +3,7 @@ using System.Text;
 
 namespace SompoTech.Nuget.DataConvert
 {
-    public class ObjectConvertFormatManager : IObjectConvertFormat
+    internal class ObjectConvertFormatManager : IObjectConvertFormat
     {
         public T JsonToObject<T>(string jsonString) where T : class, new()
         {

@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>SompoTech.ProjectInfrastructure</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <title>SompoTech Infrastructure</title>
     <authors>Adem Olguner</authors>
     <owners>Sompo Sigorta Tech</owners>
@@ -11,7 +11,7 @@
     <projectUrl>https://github.com/ademolguner/AdemNugetDataConverter</projectUrl>
     <icon>https://ademolguner.com/sompoicon.jpeg</icon>
     <description>Projelerde altyapı tasarımı yaparak standart işleri bir paket haline getirildi. (Log-Exception-Caching vb...)</description>
-    <releaseNotes>İlk Release</releaseNotes>
+    <releaseNotes>DataConvert işlemi için static class olusturuldu ve static metot çağrımı yapılarak devam edilecek</releaseNotes>
     <copyright>Copyright 2020</copyright>
     <tags>CrossCuttingOperations Log Exception Caching  Infrastructure ObjectConvert JsonConvert JsonSerialize JsonDeserialize</tags>
     <dependencies>
